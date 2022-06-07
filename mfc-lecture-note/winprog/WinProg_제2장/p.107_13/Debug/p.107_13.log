@@ -1,0 +1,34 @@
+﻿빌드 시작: 2015-10-11 오전 12:23:14
+     1>2 노드의 "C:\Users\은빈\Google 드라이브\2학년 2학기\윈도우 프로그래밍\시험공부\WinProg_제2장\p.107_13\p.107_13.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\p.107_13.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         모든 출력이 최신 상태입니다.
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\p.107_13.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt p.107_13.cpp
+         p.107_13.cpp
+     1>c:\users\은빈\google 드라이브\2학년 2학기\윈도우 프로그래밍\시험공부\winprog_제2장\p.107_13\p.107_13.cpp(3): warning C4603: 'WINVER' : 매크로가 정의되지 않았거나 미리 컴파일된 헤더 사용 후와 정의가 다릅니다.
+                 여기에서 정의하지 않고 미리 컴파일된 헤더에 매크로 추가
+                 c:\users\은빈\google 드라이브\2학년 2학기\윈도우 프로그래밍\시험공부\winprog_제2장\p.107_13\p.107_13.cpp(4) : 미리 컴파일된 헤더 사용
+       ResourceCompile:
+         모든 출력이 최신 상태입니다.
+       ManifestResourceCompile:
+         모든 출력이 최신 상태입니다.
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\은빈\Google 드라이브\2학년 2학기\윈도우 프로그래밍\시험공부\WinProg_제2장\Debug\p.107_13.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\p.107_13.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\은빈\Google 드라이브\2학년 2학기\윈도우 프로그래밍\시험공부\WinProg_제2장\Debug\p.107_13.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\은빈\Google 드라이브\2학년 2학기\윈도우 프로그래밍\시험공부\WinProg_제2장\Debug\p.107_13.lib" /MACHINE:X86 Debug\p.107_13.res
+         Debug\p.107_13.exe.embed.manifest.res
+         Debug\p.107_13.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\p.107_13.exe.embed.manifest" /manifest Debug\p.107_13.exe.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         모든 출력이 최신 상태입니다.
+       LinkEmbedManifest:
+         모든 출력이 최신 상태입니다.
+         p.107_13.vcxproj -> C:\Users\은빈\Google 드라이브\2학년 2학기\윈도우 프로그래밍\시험공부\WinProg_제2장\Debug\p.107_13.exe
+       FinalizeBuildStatus:
+         "Debug\p.107_13.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\p.107_13.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\은빈\Google 드라이브\2학년 2학기\윈도우 프로그래밍\시험공부\WinProg_제2장\p.107_13\p.107_13.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:00.69

@@ -1,0 +1,42 @@
+﻿빌드 시작: 2015-10-15 오전 3:37:54
+     1>2 노드의 "C:\Users\은빈\Google 드라이브\2학년 2학기\윈도우 프로그래밍\연습문제정답\Solutions_Exercises_CH1_Ch5\Chapter03\a08-Simple\Simple.vcxproj" 프로젝트(build 대상)입니다.
+     1>InitializeBuildStatus:
+         "AlwaysCreate"이(가) 지정되었기 때문에 "Debug\Simple.unsuccessfulbuild"을(를) 만들고 있습니다.
+       ClCompile:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"StdAfx.h" /Fp"Debug\Simple.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"StdAfx.h" /Fp"Debug\Simple.pch" /Fo"Debug\\" /Fd"Debug\vc100.pdb" /Gd /TP /analyze- /errorReport:prompt ChildView.cpp MainFrm.cpp Simple.cpp
+         Simple.cpp
+         MainFrm.cpp
+         ChildView.cpp
+         코드를 생성하고 있습니다...
+       ResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /D _DEBUG /D _UNICODE /D UNICODE /D _AFXDLL /l"0x0412" /IDebug\ /nologo /fo"Debug\Simple.res" Simple.rc 
+       ManifestResourceCompile:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Simple.exe.embed.manifest.res" Debug\Simple_manifest.rc 
+       Link:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\은빈\Google 드라이브\2학년 2학기\윈도우 프로그래밍\연습문제정답\Solutions_Exercises_CH1_Ch5\Chapter03\a08-Simple\Debug\Simple.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Simple.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\은빈\Google 드라이브\2학년 2학기\윈도우 프로그래밍\연습문제정답\Solutions_Exercises_CH1_Ch5\Chapter03\a08-Simple\Debug\Simple.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\은빈\Google 드라이브\2학년 2학기\윈도우 프로그래밍\연습문제정답\Solutions_Exercises_CH1_Ch5\Chapter03\a08-Simple\Debug\Simple.lib" /MACHINE:X86 Debug\Simple.res
+         Debug\Simple.exe.embed.manifest.res
+         Debug\ChildView.obj
+         Debug\MainFrm.obj
+         Debug\Simple.obj
+         Debug\stdafx.obj
+       Manifest:
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\mt.exe /nologo /verbose /out:"Debug\Simple.exe.embed.manifest" /manifest Debug\Simple.exe.intermediate.manifest "c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\Include\Manifest\dpiaware.manifest"
+         C:\Program Files (x86)\Microsoft SDKs\Windows\v7.0A\bin\rc.exe /nologo /fo"Debug\Simple.exe.embed.manifest.res" Debug\Simple_manifest.rc 
+       LinkEmbedManifest:
+         c:\Program Files (x86)\Microsoft Visual Studio 10.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\은빈\Google 드라이브\2학년 2학기\윈도우 프로그래밍\연습문제정답\Solutions_Exercises_CH1_Ch5\Chapter03\a08-Simple\Debug\Simple.exe" /INCREMENTAL /NOLOGO /MANIFEST /ManifestFile:"Debug\Simple.exe.intermediate.manifest" /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /DEBUG /PDB:"C:\Users\은빈\Google 드라이브\2학년 2학기\윈도우 프로그래밍\연습문제정답\Solutions_Exercises_CH1_Ch5\Chapter03\a08-Simple\Debug\Simple.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"wWinMainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\은빈\Google 드라이브\2학년 2학기\윈도우 프로그래밍\연습문제정답\Solutions_Exercises_CH1_Ch5\Chapter03\a08-Simple\Debug\Simple.lib" /MACHINE:X86 Debug\Simple.res
+         Debug\Simple.exe.embed.manifest.res
+         Debug\ChildView.obj
+         Debug\MainFrm.obj
+         Debug\Simple.obj
+         Debug\stdafx.obj
+         Simple.vcxproj -> C:\Users\은빈\Google 드라이브\2학년 2학기\윈도우 프로그래밍\연습문제정답\Solutions_Exercises_CH1_Ch5\Chapter03\a08-Simple\Debug\Simple.exe
+       FinalizeBuildStatus:
+         "Debug\Simple.unsuccessfulbuild" 파일을 삭제하고 있습니다.
+         "Debug\Simple.lastbuildstate"에 연결(touching)하고 있습니다.
+     1>"C:\Users\은빈\Google 드라이브\2학년 2학기\윈도우 프로그래밍\연습문제정답\Solutions_Exercises_CH1_Ch5\Chapter03\a08-Simple\Simple.vcxproj" 프로젝트를 빌드했습니다(build 대상).
+
+빌드했습니다.
+
+경과 시간: 00:00:05.52
